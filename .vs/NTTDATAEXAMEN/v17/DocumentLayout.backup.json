@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sumerius\\NTTDATAEXAMEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|d:\\sumerius\\nttdataexamen\\nttdatatest03\\vista\\listar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:nttdatatest03\\vista\\listar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\nttdatatest03\\vista\\listar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:nttdatatest03\\vista\\listar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\ControlClienteBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|solutionrelative:NTTDATATEST.BE\\ControlClienteBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\ControlClienteDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|solutionrelative:NTTDATATEST.DAC\\ControlClienteDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\ControlClienteBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|solutionrelative:NTTDATATEST.BL\\ControlClienteBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\MasterPage.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\MasterPage.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IControlClienteBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|solutionrelative:NTTDATATEST.BL\\IControlClienteBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IControlClienteDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|solutionrelative:NTTDATATEST.DAC\\IControlClienteDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\UsuarioDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|solutionrelative:NTTDATATEST.DAC\\UsuarioDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Listar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\UsuarioBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|solutionrelative:NTTDATATEST.BL\\UsuarioBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|solutionrelative:NTTDATATEST.BE\\UsuarioBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioListBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572FF49D-1F57-4624-9E18-F5AE614B11C2}|NTTDATATEST.BE\\NTTDATAEXAMEN.BE.csproj|solutionrelative:NTTDATATEST.BE\\UsuarioListBE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Crear.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Crear.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C200CD2C-1009-4CEA-961B-A821E062B6D9}|NTTDATATEST03\\NTTDATAEXAMEN.csproj|solutionrelative:NTTDATATEST03\\vista\\Crear.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IUsuarioDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1ABD8F-280C-4BB4-8F50-FB9C742A40F9}|NTTDATATEST.DAC\\NTTDATAEXAMEN.DAC.csproj|solutionrelative:NTTDATATEST.DAC\\IUsuarioDAC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IUsuarioBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E208F-1A2B-44A7-83DF-72B5ED9CDDC3}|NTTDATATEST.BL\\NTTDATAEXAMEN.BL.csproj|solutionrelative:NTTDATATEST.BL\\IUsuarioBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listar.aspx",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Listar.aspx",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Listar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T22:58:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlClienteDAC.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\ControlClienteDAC.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.DAC\\ControlClienteDAC.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\ControlClienteDAC.cs",
+              "RelativeToolTip": "NTTDATATEST.DAC\\ControlClienteDAC.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlClienteBE.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\ControlClienteBE.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BE\\ControlClienteBE.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\ControlClienteBE.cs",
+              "RelativeToolTip": "NTTDATATEST.BE\\ControlClienteBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Index.aspx",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T22:58:54.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Index.aspx.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Index.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Index.aspx.designer.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Index.aspx.designer.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Index.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlClienteBL.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\ControlClienteBL.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BL\\ControlClienteBL.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\ControlClienteBL.cs",
+              "RelativeToolTip": "NTTDATATEST.BL\\ControlClienteBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\MasterPage.Master.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master.cs",
+              "RelativeToolTip": "NTTDATATEST03\\MasterPage.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listar.aspx.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Listar.aspx.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Listar.aspx.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\MasterPage.Master",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\MasterPage.Master",
+              "RelativeToolTip": "NTTDATATEST03\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T22:58:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IControlClienteBL.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IControlClienteBL.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BL\\IControlClienteBL.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IControlClienteBL.cs",
+              "RelativeToolTip": "NTTDATATEST.BL\\IControlClienteBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IControlClienteDAC.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IControlClienteDAC.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.DAC\\IControlClienteDAC.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IControlClienteDAC.cs",
+              "RelativeToolTip": "NTTDATATEST.DAC\\IControlClienteDAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioDAC.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\UsuarioDAC.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.DAC\\UsuarioDAC.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\UsuarioDAC.cs",
+              "RelativeToolTip": "NTTDATATEST.DAC\\UsuarioDAC.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAADgv5cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Listar.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Listar.aspx.designer.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Listar.aspx.designer.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Listar.aspx.designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioBL.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\UsuarioBL.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BL\\UsuarioBL.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\UsuarioBL.cs",
+              "RelativeToolTip": "NTTDATATEST.BL\\UsuarioBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioBE.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioBE.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BE\\UsuarioBE.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioBE.cs",
+              "RelativeToolTip": "NTTDATATEST.BE\\UsuarioBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioListBE.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioListBE.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BE\\UsuarioListBE.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BE\\UsuarioListBE.cs",
+              "RelativeToolTip": "NTTDATATEST.BE\\UsuarioListBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Crear.aspx.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Crear.aspx.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Crear.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Crear.aspx",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Crear.aspx",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Crear.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T22:58:54.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Crear.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST03\\vista\\Crear.aspx.designer.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST03\\vista\\Crear.aspx.designer.cs",
+              "RelativeToolTip": "NTTDATATEST03\\vista\\Crear.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsuarioDAC.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IUsuarioDAC.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.DAC\\IUsuarioDAC.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.DAC\\IUsuarioDAC.cs",
+              "RelativeToolTip": "NTTDATATEST.DAC\\IUsuarioDAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsuarioBL.cs",
+              "DocumentMoniker": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IUsuarioBL.cs",
+              "RelativeDocumentMoniker": "NTTDATATEST.BL\\IUsuarioBL.cs",
+              "ToolTip": "D:\\Sumerius\\NTTDATAEXAMEN\\NTTDATATEST.BL\\IUsuarioBL.cs",
+              "RelativeToolTip": "NTTDATATEST.BL\\IUsuarioBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:58:54.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
